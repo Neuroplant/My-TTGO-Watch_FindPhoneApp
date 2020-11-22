@@ -1,3 +1,5 @@
+this is an Addon to https://github.com/sharandac/My-TTGO-Watch
+
 ### for Finding Watch
 
 in "src/gui/mainbar/setup*tile/bluetooth*settings/bluetooth_settings.cpp"
