@@ -2,7 +2,7 @@ this is an Addon to https://github.com/sharandac/My-TTGO-Watch
 
 ### for Finding Watch
 
-in "src/gui/mainbar/setup*tile/bluetooth*settings/bluetooth_settings.cpp"
+in "src/gui/mainbar/setup_tile/bluetooth_settings/bluetooth_settings.cpp"
 
 add lines
 
@@ -18,7 +18,7 @@ Line 175:
 bluetoothFindPhonetile_setup();
 ```
 
-copy files in "bluetooth*settings" to "src/gui/mainbar/setup*tile/bluetooth_settings/"
+copy files in "bluetooth_settings" to "src/gui/mainbar/setup_tile/bluetooth_settings/"
 
 ### for Finding Phone
 
